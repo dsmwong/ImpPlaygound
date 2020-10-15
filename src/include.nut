@@ -1,0 +1,1 @@
+const MYCONST = "Some constants";
